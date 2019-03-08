@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>zc-swipemenu-recyclerview</id>
+    <version>1.0.0</version>
+    <authors>ZDZCode</authors>
+    <licenseUrl>https://github.com/zdzcode-projects/zc-swipemenu-recyclerview/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/zdzcode-projects/zc-swipemenu-recyclerview</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description></description>
+    <tags>Xamarin, Android, Binding, RecyclerView, Swipe Menu, Context</tags>
+    <dependencies>
+      <dependency id="Xamarin.Android.Support.v7.RecyclerView" version="23.4.0.1" />
+    </dependencies>
+  </metadata>
+</package>
